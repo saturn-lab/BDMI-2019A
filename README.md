@@ -1,5 +1,10 @@
 # BDMI-2019A
 
-AI Platform
+## Teaching Plan 
 
-详见http://wiki.icenter.tsinghua.edu.cn/icenterwiki/index.php/AI云
+https://github.com/saturn-lab/BDMI-2019A/wiki
+
+## TA
+
+Rui Xie, SHiYuan HUang, Chen Gao, Shuchang Xu
+
