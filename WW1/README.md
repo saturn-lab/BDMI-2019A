@@ -7,21 +7,21 @@ code and teaching materials
 
 （2）编程语言：
 
-python/ haskell，环境jupyter/GHC, （后续讲lambda演算 （第三节课左右））（@许书畅 许同学准备好安装软件，带U盘，或提前发布安装，减少课堂安装的工作量）
+- python/ haskell，环境jupyter/GHC, （后续讲lambda演算 （第三节课左右））（@许书畅 许同学准备好安装软件，带U盘，或提前发布安装，减少课堂安装的工作量）
 
--Git 工具 、VS code 
+- Git 工具 、VS code 
 
 
--命令式 申明式 关系
+- 命令式 申明式 关系
 
 （3）课程内容：
 - TensorFlow 为基础 深度学习 机器学习 语音识别 计算机视觉 自然语言处理（实践项目）
 
 （4）安装程序环境  助教准备安装 
 
--简单介绍haskell语言；learn you a haskell for great good. (Intro /chapter 1)
+- 简单介绍haskell语言；learn you a haskell for great good. (Intro /chapter 1)
 
--Python编程语言：learn python3  
+- Python编程语言：learn python3  
 
 - 实践1：Fibs.hs Fibs.py
 
