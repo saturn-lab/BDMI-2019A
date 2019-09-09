@@ -31,9 +31,16 @@ code and teaching materials
 
 - 如何计算Pi （请助教协助）（黄助教 @黄世宇 制作PPT）
 
+- 实践2： 计算Pi 
+
 （6）排序：sorting / Quick Sort
 
-- 实践2：Python实现；Haskell实现 （高同学 @高宸 整理好，提前发给学生）放在WW1中 github https://github.com/saturn-lab/BDMI-2019A/tree/master/WW1
+- 实践3：Python实现；Haskell实现 （高同学 @高宸 整理好，提前发给学生）放在WW1中 github https://github.com/saturn-lab/BDMI-2019A/tree/master/WW1
 
 
 - 分为四组同学；四个助教分别辅导。如何分组？（谢同学将同学分为4组，4位助教予以辅导） 
+
+# 课程小节
+
+课程最后10分钟，文件格式markdown
+
