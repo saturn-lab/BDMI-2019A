@@ -42,5 +42,5 @@ code and teaching materials
 
 # 课程小节
 
-课程最后10分钟，文件格式markdown
+课程最后10分钟，文件格式markdown，Github上传；
 
