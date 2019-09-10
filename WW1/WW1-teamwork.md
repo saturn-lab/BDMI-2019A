@@ -13,7 +13,7 @@ code and teaching materials
 
 - 命令式 申明式 关系
 
--实践0：git使用，更新markdown格式的自我介绍；
+-实践0：git使用，更新markdown格式的[自我介绍](https://github.com/saturn-lab/BDMI-2019A/blob/master/Course-Projects/Course_Project_0.md)；
 
 （3）课程内容：
 
