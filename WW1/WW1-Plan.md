@@ -1,4 +1,4 @@
-Bring You Laptop to Class. 
+Bring Your Laptop to Class. 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
