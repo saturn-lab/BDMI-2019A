@@ -13,7 +13,7 @@ code and teaching materials
 
 - 命令式 申明式 关系
 
--实践0：git使用，更新markdown格式的[自我介绍](https://github.com/saturn-lab/BDMI-2019A/blob/master/Course-Projects/Course_Project_0.md)；
+-实践0：git使用，更新markdown格式的目录[About_Us](https://github.com/saturn-lab/BDMI-2019A/blob/master/Course-Projects/Course_Project_0.md)；
 
 （3）课程内容：
 
@@ -39,11 +39,11 @@ code and teaching materials
 
 （6）排序：sorting / Quick Sort
 
-- 实践3：（@高宸 高同学 整理好样码，提前发给学生）放在[WW1](https://github.com/saturn-lab/BDMI-2019A/tree/master/WW1)
+- 实践3：（@高宸 高同学 整理好样码，提前发给学生）放在目录[WW1](https://github.com/saturn-lab/BDMI-2019A/tree/master/WW1)
 
 （7）课程小结
 
-最后10分钟，文件格式markdown，Github上传；
+最后10分钟，文件格式markdown，Github上传目录[Study-Memo](https://github.com/saturn-lab/BDMI-2019A/tree/master/Study-Memo)；
 
 # 课程组织
 
