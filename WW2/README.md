@@ -9,11 +9,11 @@
 
 # 数据结构与算法 
 
-对标斯坦福大学CS课程：[http://web.stanford.edu/class/cs161/ CS 161: Design and Analysis of Algorithms]
+对标斯坦福大学CS课程：[ CS 161: Design and Analysis of Algorithms](http://web.stanford.edu/class/cs161/)
 
-对标斯坦福大学CS课程：[http://web.stanford.edu/class/cs166/ CS 166: Data Structures]
+对标斯坦福大学CS课程：[ CS 166: Data Structures](http://web.stanford.edu/class/cs166/)
 
-对标普林斯顿大学CS课程： http://www.cs.princeton.edu/courses/archive/spr10/cos226/info.html
+对标普林斯顿大学CS课程： [cos226](http://www.cs.princeton.edu/courses/archive/spr10/cos226/info.html)
 
 # 参考书
 
