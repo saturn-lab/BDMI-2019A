@@ -1,7 +1,7 @@
-# write your ``self-intro.md``, upload to diectory ``个人简介``
+# write your self-intro ``name-ID.md``, upload to diectory ``About_Us``
 
 
-# update ``BDMI名单.md`` with a row about you, linked to your markdown file.
+# update ``BDMI-Roster.md`` with a row about you, linked to your markdown file.
 
 
 
