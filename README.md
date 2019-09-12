@@ -11,3 +11,9 @@ Rui Xie, Shiyu Huang, Chen Gao, Shuchang Xu
 ## Requirements
 
 bring your laptop to class.
+
+## 目录结构
+
+- WWn/ 第n次课的课件和参考代码
+- Study-Memo/ 同学们的课程小结
+- Course-Projects/ 课程实践任务
