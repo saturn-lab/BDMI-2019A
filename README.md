@@ -10,7 +10,11 @@ Rui Xie, Shiyu Huang, Chen Gao, Shuchang Xu
 
 ## Requirements
 
-bring your laptop to class.
+软件要求：
+- Python3
+- Haskell
+- Github
+
 
 ## 目录结构
 
