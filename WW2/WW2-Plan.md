@@ -10,8 +10,10 @@ Bring Your Laptop to Class.
 |   5       | 实验[sorting算法](cs161-2018/lecture2_sorting.ipynb)     |  实践    |     TAs     |         |
 |   6       | 中值与选择（Median & Selection）      |  讲课    |     CZ     |         |
 |   7       | 实验[Median & Selection算法](cs161-2018/lecture4_median_selection.ipynb)       |  实践    |     TAs     |         |
-|   8       | Haskell程序设计       |  实践    |     GaoC    |         |
+|   8       | Haskell程序设计，计算Pi值       |  实践    |     GaoC    |         |
 |   9       | 排序算法（Haskell）       |  讲课    |     GuoM     |         |
+|   10       |         |  实验    |     TAs     |         |
+
 
 
 大家注意：勿上传``有版权``的课程参考资料。
