@@ -11,9 +11,14 @@ Rui Xie, Shiyu Huang, Chen Gao, Shuchang Xu
 ## Requirements
 
 软件要求：
+
 - Python3
 - Haskell
 - Github
+
+课程要求：
+
+- 上课需要自带笔记本电脑
 
 
 ## 目录结构
