@@ -26,3 +26,7 @@ Rui Xie, Shiyu Huang, Chen Gao, Shuchang Xu
 - WWn/ 第n次课的课件和参考代码
 - Study-Memo/ 同学们的课程小结
 - Course-Projects/ 课程实践任务
+
+## 课程相关问题和建议
+
+课程相关问题和建议请在该仓库的Issues下面提出，有老师和助教进行解答。
