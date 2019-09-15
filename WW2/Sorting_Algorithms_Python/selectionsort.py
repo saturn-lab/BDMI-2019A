@@ -16,4 +16,4 @@ def selectionsort(array):
 if __name__ == "__main__":
     array = [17, 9, 13, 8, 7, -5, 6, 11, 3, 4, 1, 2]
     selectionsort(array)
-    print array
+    print(array)

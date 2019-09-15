@@ -3,7 +3,7 @@
 def _mergesort(array, start, end):
     """ Recursive mergesort function """
     # split
-    mid = (start + end)/2
+    mid = int((start + end)/2)
     if start < end:
         _mergesort(array, start, mid)
         _mergesort(array, mid+1, end)
@@ -27,16 +27,16 @@ def _mergesort(array, start, end):
         tmp_array += array[R:]
 
     # tmp_array to array
-    i = 0;
+    i = 0
     while (start <= end):
         array[start] = tmp_array[i]
-        start += 1; i += 1;
+        start += 1; i += 1
 
 def mergesort(array):
     _mergesort(array, 0, len(array)-1)
 
 if __name__ == "__main__":
     array = [17, 9, 13, 8, 7, 7, -5, 6, 11, 3, 4, 1, 2]
-    mergesort(array);
-    print array
+    mergesort(array)
+    print(array)
 
