@@ -24,7 +24,7 @@ Rui Xie, Shiyu Huang, Chen Gao, Shuchang Xu
 ## 目录结构
 
 - WWn/ 第n次课的课件和参考代码
-- Study-Memo/ 同学们的课程小结
+- Study-Memo/ 同学们的课程小结（课程小结文件名格式：m-Dayn.md，m为学生编号，n为第n次课)
 - Course-Projects/ 课程实践任务
 
 ## 课程相关问题和建议
