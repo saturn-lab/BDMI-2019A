@@ -7,7 +7,7 @@ Bring Your Laptop to Class.
 |   2       | 实验环境，编辑器，Git简介，AI-platform     |  讲课    |     CZ     |  VS code/Sublime/Notepad++       |
 |   3       | Github注册/安装GitBash/Markdown编辑器     |  实践    |    TAs     |        |
 |   4       | Git Clone本项目     |  实践    |    Xu     |        |
-|   5       | 个人自我介绍markdown ``Name-ID.md`` /更新 ``BDMI名单.md``     |  实践    |    CZ&TAs     |        |
+|   5       | 个人自我介绍markdown ``Assigned-Number.md`` /更新 ``BDMI名单.md``     |  实践    |    CZ&TAs     |        |
 |   6       | Python编程语言     |  讲课    |    CZ    |        |
 |   7       | Python软件安装/Jupyter Notebook安装/设置     |  实践    |    CZ&TAs    |   推荐用官网安装python     |
 |   8       | Python 计算Pi     |  讲课    |     Huang     |         |
