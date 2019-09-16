@@ -13,7 +13,7 @@ Bring Your Laptop to Class.
 |   8       | 实验[Median & Selection算法](cs161-2018/lecture4_median_selection.ipynb)       |  实践    |     TAs     |         |
 |   9       | Haskell程序设计，计算Pi值       |  实践    |     GaoC    |         |
 |   10       | 排序算法（Haskell）       |  讲课    |     GuoM     |         |
-|   11       |     课后作业1    |  实验介绍与判题    |     huang     |         |
+|   11       |     [课后作业1](https://github.com/saturn-lab/BDMI-2019A/blob/master/Course-Projects/Course_Project_2.md)    |  实验介绍与判题    |     huang     |         |
 
 
 
