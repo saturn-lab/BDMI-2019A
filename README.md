@@ -18,6 +18,8 @@ Rui Xie, Shiyu Huang, Chen Gao, Shuchang Xu
 
 课程要求：
 
+- 有一定算法、数据结构基础
+- 有微积分，线性代数基础
 - 上课需要自带笔记本电脑
 
 
