@@ -18,6 +18,9 @@
 
 # 参考书
 
+THU. library.
+https://ebookcentral.proquest.com/lib/tsinghua/home.action
+
 - Introduction to Algorithms-Third Edition-The MIT Press (2009)
 - Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne 
 - Data Structures and Algorithm Analysis in C++ (Fourth Edition) （中文名：数据结构与算法分析C++描述）

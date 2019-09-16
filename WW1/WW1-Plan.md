@@ -7,7 +7,7 @@ Bring Your Laptop to Class.
 |   2       | 实验环境，编辑器，Git简介，AI-platform     |  讲课    |     CZ     |  VS code/Sublime/Notepad++       |
 |   3       | Github注册/安装GitBash/Markdown编辑器     |  实践    |    TAs     |        |
 |   4       | Git Clone本项目     |  实践    |    Xu     |        |
-|   5       | 个人自我介绍markdown ``Name-ID.md`` /更新 ``BDMI名单.md``     |  实践    |    CZ&TAs     |        |
+|   5       | 个人自我介绍markdown ``Assigned-Number.md`` /更新 ``BDMI名单.md``     |  实践    |    CZ&TAs     |        |
 |   6       | Python编程语言     |  讲课    |    CZ    |        |
 |   7       | Python软件安装/Jupyter Notebook安装/设置     |  实践    |    CZ&TAs    |   推荐用官网安装python     |
 |   8       | Python 计算Pi     |  讲课    |     Huang     |         |
@@ -16,7 +16,7 @@ Bring Your Laptop to Class.
 |   11       | GHCi安装软件 |  实践    |     Xu     |         |
 |   12       | Haskell练习1 ``doubleme.hs`` ``cal_pi.hs``    |  实践    |     CZ&TAs     |         |
 |   13       | 两大数相乘，算法思想     |  讲课    |     CZ     |         |
-|   14       | 学习小结.md     |  实践    |     CZ&TAs     |         |
+|   14       | 学习小结.md 上交至[Study-Memo](../Study-Memo)    |  实践    |     CZ&TAs     |   最迟至9月17日下午3点      |
 
 
 大家注意：勿上传``有版权``的课程参考资料。
