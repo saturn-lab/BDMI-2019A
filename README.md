@@ -4,7 +4,9 @@
 
 https://github.com/saturn-lab/BDMI-2019A/wiki
 
-## TA
+## Instructor and TAs
+
+Zhen Chen, Xin Lu, Min Guo
 
 Rui Xie, Shiyu Huang, Chen Gao, Shuchang Xu
 
