@@ -17,6 +17,7 @@ Rui Xie, Shiyu Huang, Chen Gao, Shuchang Xu
 - Python3
 - Haskell
 - Github
+- Jupyter Notebook
 
 课程要求：
 
