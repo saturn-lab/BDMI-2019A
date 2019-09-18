@@ -14,9 +14,8 @@ $$
 \end{bmatrix}
 $$
 
-
 $$
-  f(n) =
+f(n) =
 \begin{cases}
 n/2,  & \text{if $n$ is even} \\
 3n+1, & \text{if $n$ is odd}
@@ -34,4 +33,3 @@ $$
 # Reference
 
 [MathJax basic tutorial and quick reference](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
-
