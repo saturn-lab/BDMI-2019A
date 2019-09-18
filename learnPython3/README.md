@@ -1,4 +1,4 @@
-# Learn Python 
+# Learn Python3 
 
 Python3 code sampels credits: https://github.com/jerry-git/learn-python3 
 
