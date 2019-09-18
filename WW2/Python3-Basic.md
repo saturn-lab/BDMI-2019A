@@ -5,3 +5,5 @@
 - [x] 函数的应用，[functions](../learnPython3/functions.ipynb)
 - [x] 循环语句的应用，[for_loops](../learnPython3/for_loops.ipynb)
 - [x] 字符串操作的应用，[strings](../learnPython3/strings.ipynb)。
+
+详见： [learnPython3](../learnPython3)
