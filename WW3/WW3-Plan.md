@@ -1,5 +1,20 @@
 Bring Your Laptop to Class. 
 
+# Plan One
+
+Bring Your Laptop to Class. 
+
+| 时间段 |                 内容                  | 讲课 / 实践 |  分工  | 备注 |
+| :----- | :-----------------------------------: | :---------: | :----: | ---: |
+| 0      |               课程签到                |  logistics  |  xie   |      |
+| 1      |      回顾上节课，介绍本节课内容        |    讲课     |   CZ   |      |
+| 2      |              课堂小游戏               |    团建     | CZ&TAs |      |
+| 3      | [Python3语言基础](Python3-Basic-1.md) | 讲课与实践  |   CZ   |      |
+| 4      |               [Numpy]()               | 讲课与实践     |   CZ   |      |
+| 5      |            [TensorFlow]()             | 讲课与实践     |   CZ   |      |
+
+# Plan Two
+
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
 |   0       | 课程签到     |  logistics   |     xie     |        |
