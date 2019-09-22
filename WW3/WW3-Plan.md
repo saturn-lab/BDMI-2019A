@@ -10,8 +10,10 @@ Bring Your Laptop to Class.
 | 1      |      回顾上节课，介绍本节课内容        |    讲课     |   CZ   |      |
 | 2      |              课堂小游戏               |    团建     | CZ&TAs |      |
 | 3      | [Python3语言基础](Python3-Basic-1.md) | 讲课与实践  |   CZ   |      |
-| 4      |               [Numpy](https://numpy.org/), [Stanford-CS231n-numpy](http://cs231n.github.io/python-numpy-tutorial/).              | 讲课与实践     |   CZ   |      |
-| 5      |            [TensorFlow](https://tensorflow.google.cn)             | 讲课与实践     |   CZ   |      |
+| 4      | [Math in Markdown](math-md-demo.md) |  讲课  |   CZ   |      |
+| 5      |               [Numpy](https://numpy.org/), [Stanford-CS231n-numpy](http://cs231n.github.io/python-numpy-tutorial/).              | 讲课与实践     |   CZ   |      |
+| 6      |            [TensorFlow](https://tensorflow.google.cn) , TensorFlow示例            | 讲课与实践     |   CZ   |      |
+| 7      |            TensorFlow示例            | 讲课与实践     |   CZ   |      |
 
 # Plan Two
 
