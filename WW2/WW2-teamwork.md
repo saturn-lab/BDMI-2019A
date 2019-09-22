@@ -10,3 +10,9 @@ code and teaching materials
 黄同学找一个课后小作业，贴在Github上[course-projects](../Course-Projects)
 
 统一回复 学生问题；（谢睿）
+
+# 教学讨论
+
+B558 
+
+陈、谢睿、黄世宇
