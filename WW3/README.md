@@ -1,19 +1,17 @@
-# 本节内容
+# Part One
 
-[[数据管理系统]]（data system）、数据模型（Data Model）与关系数据模型（Relational data model）
+## Python Basics-1
 
-[[关系代数]]、[SQL语言](https://www.w3school.com.cn/sql/sql_syntax.asp)
+## Math in Markdown
 
-# 安排 
+## Numpy 
 
-'''Table of Contents'''
- 
- 1.Why data systems
- 
- 2.Overview of the Relational data model
- 
- 3.SQL Part I, SQL Part II 
- 
- 4.Indexing and IO Model
- 
- 5.IO Model and Sorting
+## TensorFlow
+
+# Algorithm cont.
+
+## Quick Sort
+
+## Bubble Sort
+
+## Median & Selection
