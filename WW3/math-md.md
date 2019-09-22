@@ -1,4 +1,4 @@
-#Formula Markdown Tutorial
+# Math Formula Markdown Tutorial
 
 ## 1. Inline VS Display
 
@@ -12,7 +12,7 @@ $$
 ## 2. Superscripts (^) or Subscripts (_)
 $x_i^2$                $x_{min}^2$
 
-##3. Greek Letters
+## 3. Greek Letters
 
 lower cases: $\alpha$ $\beta$ $\delta$ $\omega$
 
@@ -51,7 +51,7 @@ $\sum_{i=0}^\infty i^2​$
 
 $\prod$ $\bigcup$ $\iint$ $\idotsint$
 
-##8. Matrixs
+## 8. Matrixs
 
 $$
 \begin{bmatrix}
@@ -91,17 +91,22 @@ $$
 
 # Activation Function
 
-Logistic/Sigmoid Function:
+- Logistic/Sigmoid Function:
+
 $$
 f(x)=\sigma(x)=\frac{1}{1+e^{-x}}\\
 f'(x)=f(x)(1-f(x))
 $$
-Arctan Function:
+
+- Arctan Function:
+
 $$
 f(x)=\tan^{-1}(x)\\
 f'(x)=\frac{1}{x^2+1}
 $$
-ReLU (Rectified linear unit) Function:
+
+- ReLU (Rectified linear unit) Function:
+
 $$
 f(x_i) =
 \begin{cases}
@@ -109,14 +114,16 @@ f(x_i) =
 	-ReLU(-x_i) & \text{if } i \bmod 2 \neq 0 
 \end{cases}
 $$
-Tanh Function:
+
+- Tanh Function:
+
 $$
 f(x)=\tanh(x)=\frac{(e^{x} - e^{-x})}{(e^{x} + e^{-x})}\\
 f'(x)=1-f(x)^2
 $$
 
+- Binary Step Function:
 
-Binary Step Function:
 $$
 f(x) = \begin{cases}
 	0 & \text{for } x < 0\\
