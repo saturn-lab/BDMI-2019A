@@ -5,12 +5,13 @@ code and teaching materials
 
 分工：
 
-- 许书畅： 更新math-md.md文件，（1）如何编写数学公式，（2）用数学公式描述神经网络激活函数。
+- 许： 更新math-md.md文件，（1）如何编写数学公式，（2）用数学公式描述神经网络激活函数。
 
-- 高宸：介绍numpy，检查numpy和tensorflow示例，补充tensorflow。
+- 高：介绍numpy，检查numpy和tensorflow示例，补充tensorflow。匿名反馈问卷
 
-- 谢睿：课程内团建的准备活动；实验室专用笔记本电脑；
+- 谢：课程内团建的准备活动；实验室专用笔记本电脑；
 
+- 黄：批改作业，下周三（10月2日 deadline）
 
 
 
