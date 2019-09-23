@@ -18,6 +18,7 @@ Rui Xie, Shiyu Huang, Chen Gao, Shuchang Xu
 - Haskell
 - Github
 - Jupyter Notebook
+- Tensorflow
 
 课程要求：
 
