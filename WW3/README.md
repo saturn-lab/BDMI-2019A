@@ -1,5 +1,5 @@
 # Part
-Link:https://github.com/saturn-lab/BDMI-2019A/blob/master/WW3/WW3-Plan.md
+Plan Link:https://github.com/saturn-lab/BDMI-2019A/blob/master/WW3/WW3-Plan.md
 
 ## Python Basics-1
 
