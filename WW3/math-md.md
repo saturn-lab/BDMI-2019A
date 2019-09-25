@@ -2,7 +2,7 @@
 
 ## 1. Inline VS Display
 
-This is an example of inline formulae: $\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$
+This is an example of inline formulae: $\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}​$
 
 This is a formula in display mode:
 $$
@@ -10,13 +10,13 @@ $$
 $$
 
 ## 2. Superscripts (^) or Subscripts (_)
-$x_i^2$                $x_{min}^2$
+$x_i^2​$                $x_{min}^2​$
 
 ## 3. Greek Letters
 
 lower cases: $\alpha$ $\beta$ $\delta$ $\omega$
 
-upper cases: $\Delta$ $\Omega$
+upper cases: $\Delta​$ $\Omega​$
 $$
 a := x^2-y^3+\cos(\theta)
 $$
@@ -45,14 +45,25 @@ ${a+1\over b+1}​$ $\frac{a+1}{b+1}​$ $\cfrac{a}{b}​$ $\frac{a}{b}​$
 
 ## 7. Sums and Integrals
 
-$\sum_1^n$
+$\sum_1^n​$
 
 $\sum_{i=0}^\infty i^2​$
 
-$\prod$ $\bigcup$ $\iint$ $\idotsint$
+$\prod​$ $\bigcup​$ $\iint​$ $\idotsint​$
+$$
+\iint\limits_{(x,y)\in D} f(x)
+\mathrm{d}x\mathrm{d}y
+$$
 
 ## 8. Matrixs
 
+- matrix：无
+- bmatrix：方括号
+- vmatrix：竖线
+- pmatrix：圆括号
+- Bmatrix：花括号
+- Vmatrix：双竖线
+
 $$
 \begin{bmatrix}
 1 & 2 & 2 \\
@@ -62,11 +73,11 @@ $$
 $$
 
 $$
-\begin{bmatrix}
+\begin{pmatrix}
 1 & 2 & 2 \\
 2 & 3 & 4 \\
 4 & 4 & 2
-\end{bmatrix}
+\end{pmatrix}
 $$
 
 ## 9. Radical Signs
@@ -79,9 +90,13 @@ $$
 {x}^{\pi}
 $$
 
+$$
+\sqrt[n]{\frac{x^2+\sqrt 2}{x+y}}
+$$
+
 ## 10. Special Characters
 
-$$\backslash$$
+$$\backslash​$$
 
 ## 11. Continued Fractions
 
