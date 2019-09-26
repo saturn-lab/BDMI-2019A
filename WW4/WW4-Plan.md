@@ -10,6 +10,12 @@ Bring Your Laptop to Class.
 |   5       |   [Hashing](../cs161-2018/lecture8_hashing.ipynb)   |  实践    |     TAs     |         |
 |   6       |   Red-Black Tree, 2-3-4 Tree, B+ tree    |  讲课    |     CZ     |         |
 |   7       |       |  实践    |     TAs     |  
+
+
+# 课后自习：
+
+|时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
+| :---      |   :----:    |   :----:    |    :----:    |       ---: |
 |   8       | 中值与选择（Median & Selection）      |  讲课    |     CZ     |         |
 |   9       | 实验[Median & Selection算法](../cs161-2018/lecture4_median_selection.ipynb)       |  实践    |     TAs     |         |
 
