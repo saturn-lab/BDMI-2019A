@@ -1,13 +1,10 @@
-# λ演算 
+# Algorithm cont.
 
-lambda calculus
+## Bubble Sort
 
-# 参考书
+Link: https://github.com/saturn-lab/BDMI-2019A/blob/master/cs161-2018/lecture6_bucketSort.ipynb
 
-Good Math: A Geek's Guide to the Beauty of Numbers, Logic, and Computation, by Mark C. Chu-Carroll
+## Median & Selection
 
-The Lambda Calculus, https://plato.stanford.edu/entries/lambda-calculus/.
+Link: https://github.com/saturn-lab/BDMI-2019A/blob/master/cs161-2018/lecture4_median_selection.ipynb
 
- Type and Programming languages, by Benjamin C. Pierce, Chapter 5. 
-
-David Walker, CS 441, Princeton University. 
