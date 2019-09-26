@@ -8,3 +8,12 @@ Link: https://github.com/saturn-lab/BDMI-2019A/blob/master/cs161-2018/lecture6_b
 
 Link: https://github.com/saturn-lab/BDMI-2019A/blob/master/cs161-2018/lecture4_median_selection.ipynb
 
+# Data Structure 
+
+## Tree Binary Search Tree (BST) 
+
+## RedBlack Tree (RBTree)
+
+# Data System
+
+
