@@ -25,6 +25,6 @@ code and teaching materials
 
 # 回复
 
-团队工作很重要；
+团队工作很重要；（You may collaborate with your classmates ）
 
 算法很重要，思维方式的训练；
