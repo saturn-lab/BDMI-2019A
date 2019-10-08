@@ -8,7 +8,7 @@ Bring Your Laptop to Class.
 |   3       |   [Hashing](../cs161-2018/lecture8_hashing.ipynb)   |  实践    |     TAs     |         |
 |   4       |   Red-Black Tree, 2-3-4 Tree, B+ tree    |  讲课    |     CZ     |         |
 |   5       |       |  实践    |     TAs     |  
-|   6       |   [BucketSort](../WW3/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.pdf)      |  讲课    |     Huang     |         |
+|   6       |   [复杂度记号](./%E5%A4%8D%E6%9D%82%E5%BA%A6%E8%AE%B0%E5%8F%B7.pdf)&[BucketSort](../WW3/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.pdf)      |  讲课    |     Huang     |         |
 |   7       |   [BucketSort](../cs161-2018/lecture6_bucketSort.ipynb)  |  实践    |     TAs     |         |
 |   8       |  实验1，语音训练数据准备：语音识别实验； | 实践 | Gao |   |
 
