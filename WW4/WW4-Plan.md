@@ -10,7 +10,7 @@ Bring Your Laptop to Class.
 |   5       |       |  实践    |     TAs     |  
 |   6       |   [BucketSort](../WW3/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.pdf)      |  讲课    |     Huang     |         |
 |   7       |   [BucketSort](../cs161-2018/lecture6_bucketSort.ipynb)  |  实践    |     TAs     |         |
-|   8       |  实验1，语音训练数据准备：语音识别实验； |  |  |  |
+|   8       |  实验1，语音训练数据准备：语音识别实验； | 实践 | Gao |   |
 
 # 语音指令链接
 http://wiki.icenter.tsinghua.edu.cn/icenterwiki/index.php/蓝牙设备-语音指令 
