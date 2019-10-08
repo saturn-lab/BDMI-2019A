@@ -11,6 +11,13 @@ Bring Your Laptop to Class.
 |   6       |   [BucketSort](../WW3/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.pdf)      |  讲课    |     Huang     |         |
 |   7       |   [BucketSort](../cs161-2018/lecture6_bucketSort.ipynb)  |  实践    |     TAs     |         |
 
+
+# 实验1：语音识别实验，语音指令数据准备；
+
+http://wiki.icenter.tsinghua.edu.cn/icenterwiki/index.php/蓝牙设备-语音指令 
+
+
+
 # 课后自习：
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
