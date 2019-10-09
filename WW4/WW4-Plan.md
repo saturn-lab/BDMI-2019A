@@ -1,7 +1,7 @@
 Bring Your Laptop to Class. 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |  备注       |
-| :---      |   :----:    |   :----:    |    :----:    |       ---: |
+| :---      |   :----:    |   :----:    |    :----:    | ---: |
 |   0       |  课程签到     |  logistics   |     xie     |        |
 |   1       |  回顾上节课，介绍本节课内容     |  讲课    |     CZ     |   Data Structure      |
 |   2       |  基本数据结构: Unsorted [Linked List](linked-list-test.ipynb) --> Sorted Linked List |     讲课、实践       |     CZ       |         | 
@@ -12,8 +12,8 @@ Bring Your Laptop to Class.
 |   7       |   [BucketSort](../cs161-2018/lecture6_bucketSort.ipynb)  |  实践    |     TAs     |         |
 |   8       |  实验1，语音训练数据准备：语音识别实验；           | 实践   | Gao    |     |   
 |   9       | 小结 |   | CZ |  |       
-|   10       |  基本查找结构： Hashing                                   |  讲课    |     Xu     |         |
-|   11       |  [Hashing](../cs161-2018/lecture8_hashing.ipynb)   |  实践    |     TAs     |         |
+|   10       |  基本查找结构： Hashing                                   |  讲课    |     Xu     |    backup     |
+|   11       |  [Hashing](../cs161-2018/lecture8_hashing.ipynb)   |  实践    |     TAs     |   backup      |
 
 
 # 语音指令链接
