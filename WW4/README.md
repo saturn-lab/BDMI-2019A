@@ -1,13 +1,43 @@
-# λ演算 
+# Data Structure 
+Data item 
 
-lambda calculus
+Fast Search/Insert/Delete/Traversal 
 
-# 参考书
+## Array
 
-Good Math: A Geek's Guide to the Beauty of Numbers, Logic, and Computation, by Mark C. Chu-Carroll
+Numpy Array.
 
-The Lambda Calculus, https://plato.stanford.edu/entries/lambda-calculus/.
+## Linked List
 
- Type and Programming languages, by Benjamin C. Pierce, Chapter 5. 
+head -> item 1-> item_2 ...
 
-David Walker, CS 441, Princeton University. 
+##  Binary Search Tree 
+
+$Tree$
+
+$BST$
+
+## RedBlack Tree 
+
+$RBTree$
+
+## B+ Tree
+
+# Data System
+
+Tree is the cornerstone of most Data System.    --who 
+
+relational database is cornerstone of western cviliaztion.  --who
+
+
+# Algorithm cont.
+
+## Bubble Sort
+
+Link: https://github.com/saturn-lab/BDMI-2019A/blob/master/cs161-2018/lecture6_bucketSort.ipynb
+
+## Median & Selection
+
+Link: https://github.com/saturn-lab/BDMI-2019A/blob/master/cs161-2018/lecture4_median_selection.ipynb
+
+

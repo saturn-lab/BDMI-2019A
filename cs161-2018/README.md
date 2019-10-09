@@ -1,5 +1,5 @@
-The slides content and code sampels credits:  
+Slides content and code samples credits:  
 
-Stanford CS 161, instrutor Prof. Mary Wootters, https://sites.google.com/site/marywootters/ 
+Prof. [Mary Wootters](https://sites.google.com/site/marywootters/),  instrutor of Stanford CS 161 course.  
 
-CS161 course web site, http://web.stanford.edu/class/cs161/. 
+Stanford CS161 course web site, http://web.stanford.edu/class/cs161/. 
