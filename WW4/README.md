@@ -3,6 +3,10 @@ Data item
 
 Fast Search/Insert/Delete/Traversal 
 
+## 桶排序课件
+
+百度云链接: https://pan.baidu.com/s/1IaTnx1rB4cu2SHE3tyxXxQ 提取码: mz3w
+
 ## Array
 
 Numpy Array.
