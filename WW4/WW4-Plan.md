@@ -1,16 +1,19 @@
 Bring Your Laptop to Class. 
 
-|时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
+|时间段     |  内容    | 讲课 / 实践     |  分工  |  备注       |
 | :---      |   :----:    |   :----:    |    :----:    |       ---: |
-|   0       | 课程签到     |  logistics   |     xie     |        |
-|   1       | 回顾上节课，介绍本节课内容     |  讲课    |     CZ     |         |
-|   2       |   基本查找结构: Binary Search Tree, Hashing.    |  讲课    |     CZ     |         |
-|   3       |   [Hashing](../cs161-2018/lecture8_hashing.ipynb)   |  实践    |     TAs     |         |
-|   4       |   Red-Black Tree, 2-3-4 Tree, B+ tree    |  讲课    |     CZ     |         |
-|   5       |       |  实践    |     TAs     |  
-|   6       |   [复杂度记号](./%E5%A4%8D%E6%9D%82%E5%BA%A6%E8%AE%B0%E5%8F%B7.pdf)&[BucketSort](../WW3/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.pdf)      |  讲课    |     Huang     |         |
-|   7       |   [BucketSort](../cs161-2018/lecture6_bucketSort.ipynb)  |  实践    |     TAs     |         |
-|   8       |  实验1，语音训练数据准备：语音识别实验； | 实践 | Gao |   |
+|   0       |  课程签到     |  logistics   |     xie     |        |
+|   1       |  回顾上节课，介绍本节课内容     |  讲课    |     CZ     |         |
+|   2       |  基本数据结构: [Linked List](linked-list-test.ipynb) |     讲课、实践       |     CZ       |         | 
+|   3       |  基本查找结构：[Binary Search Tree](BinarySearchTrees.ipynb)|    讲课、实践   |  CZ     |          |
+|   4       |  Red-Black Tree, 2-3-4 Tree, B+ tree    |  讲课    |     CZ     |         |
+|   5       |  基本查找结构： Hashing                                   |  讲课    |     Xu     |         |
+|   6       |  [Hashing](../cs161-2018/lecture8_hashing.ipynb)   |  实践    |     TAs     |         |
+|   7       |       |  实践    |     TAs     |     | 
+|   8       |   [复杂度记号](./%E5%A4%8D%E6%9D%82%E5%BA%A6%E8%AE%B0%E5%8F%B7.pdf) & [BucketSort](../WW3/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.pdf)      |  讲课    |     Huang     |         |
+|   9       |   [BucketSort](../cs161-2018/lecture6_bucketSort.ipynb)  |  实践    |     TAs     |         |
+|   10       |  实验1，语音训练数据准备：语音识别实验；           | 实践   | Gao    |     |   
+|   11      | 小结 |   |  |  |       
 
 # 语音指令链接
 http://wiki.icenter.tsinghua.edu.cn/icenterwiki/index.php/蓝牙设备-语音指令 
