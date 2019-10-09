@@ -12,4 +12,5 @@ Instructor of Course: CS 145 [Data Management and Data Systems](http://web.stanf
 
 2017 fall, https://github.com/stanford-futuredata/cs145-2017
 
+2016 fall, https://github.com/HazyResearch/cs145-notebooks-2016
 
