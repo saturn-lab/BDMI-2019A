@@ -7,11 +7,11 @@ Bring Your Laptop to Class.
 |   2       |  基本数据结构: Unsorted [Linked List](linked-list-test.ipynb) --> Sorted Linked List |     讲课、实践       |     CZ       |         | 
 |   3       |  基本查找结构：Binary Tree(Unsorted) --> [Binary Search Tree](BinarySearchTrees.ipynb)(Sorted)|    讲课、实践   |  CZ     |          |
 |   4       |  Binary Search Tree --> [Red-Black Tree (Sorted)](https://www.cs.princeton.edu/~rs/talks/LLRB/)      |  讲课    |     CZ     |         |
-|   5       |  2-3-4 Tree ---> [B+ tree](../cs245-2017/CS245-Notes4-B-trees.pdf)   |  实践    |     TAs     |  (Base of Data System)     | 
+|   5       |  [2-3-4 Tree](2-3-4-Tree.pdf) ---> [B+ tree](../cs245-2017/CS245-Notes4-B-trees.pdf)   |  实践    |     TAs     |  (Base of Data System)     | 
 |   6       |  [复杂度记号](./%E5%A4%8D%E6%9D%82%E5%BA%A6%E8%AE%B0%E5%8F%B7.pdf) & [BucketSort](../WW3/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.pdf)      |  讲课    |     Huang     |   Algorithm      |
 |   7       |   [BucketSort](../cs161-2018/lecture6_bucketSort.ipynb)  |  实践    |     TAs     |         |
 |   8       |  实验1，语音训练数据准备：语音识别实验；           | 实践   | Gao    |     |   
-|   9      | 小结 |   | CZ |  |       
+|   9       | 小结 |   | CZ |  |       
 |   10       |  基本查找结构： Hashing                                   |  讲课    |     Xu     |         |
 |   11       |  [Hashing](../cs161-2018/lecture8_hashing.ipynb)   |  实践    |     TAs     |         |
 
