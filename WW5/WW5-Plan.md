@@ -9,8 +9,10 @@ Bring Your Laptop to Class.
 |   4       |  Why Data System?   |   讲课    |     CZ     |         |
 |   5       |  SQL I   |   讲课    |     Gao     |         |
 |   6       |  [SQL-I](../cs145-2018)    |   实践    |     Gao     |         |
-|   7       |  [SQL-II](../cs145-2018)   |   讲课    |     huang     |         |
-|   8       |  SQL I   |   实践    |     Gao     |         |
+|   7       |  SQL II  |   讲课    |     huang     |         |
+|   8       |  [SQL-II](../cs145-2018)    |   实践    |     huang     |         |
+|   9       |  小结    |        |     CZ     |         |
+
 
 
 
