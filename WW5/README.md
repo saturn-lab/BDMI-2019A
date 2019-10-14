@@ -8,7 +8,7 @@
 
 课件：https://cs145-fa19.github.io/
 
-代码： https://github.com/saturn-lab/BDMI-2019A/tree/master/cs145-2018
+代码：BDMI-2019A/[cs145-2018](../cs145-2018)
 
 ## 安装SQL
 
