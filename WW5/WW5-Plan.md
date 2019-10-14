@@ -1,4 +1,4 @@
-Bring Your Laptop to Class. 
+Bring Your Laptop and smart phone  to Class. 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |  备注       |
 | :---      |   :----:    |   :----:    |    :----:    | ---: |
@@ -9,10 +9,8 @@ Bring Your Laptop to Class.
 |   4       |  Why Data System?   |   讲课    |     CZ     |         |
 |   5       |  SQL I   |   讲课    |     Gao     |         |
 |   6       |  [SQL-I](../cs145-2018)    |   实践    |     Gao     |         |
-|   7       |  SQL II  |   讲课    |     huang     |         |
-|   8       |  [SQL-II](../cs145-2018)    |   实践    |     huang     |         |
-|   9       |  小结    |        |     CZ     |         |
-
+|   7       |  作业回顾    |        |     huang     |         |
+|   8       |  小结    |        |     CZ     |         |
 
 
 
