@@ -8,6 +8,10 @@
 
 https://cs145-fa19.github.io/
 
+## 使用SQL
+
+`pip install ipython-sql`
+
 # 安排 
 
 '''Table of Contents'''
