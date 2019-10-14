@@ -1,8 +1,20 @@
 # 本节内容
 
-[[数据管理系统]]（data system）、数据模型（Data Model）与关系数据模型（Relational data model）
+**数据管理系统（data system）、数据模型（Data Model）**
 
-[[关系代数]]、[SQL语言](https://www.w3school.com.cn/sql/sql_syntax.asp)
+**关系数据模型（Relational data model）与关系代数**
+
+**[SQL语言](https://www.w3school.com.cn/sql/sql_syntax.asp)**
+
+## SQL相关
+
+课件：https://cs145-fa19.github.io/
+
+代码：[链接](../cs145-2018)
+
+## 安装SQL
+
+`pip install ipython-sql`
 
 # 安排 
 
@@ -12,8 +24,8 @@
  
  2.Overview of the Relational data model
  
- 3.SQL Part I, SQL Part II 
+ **3.SQL Part I, SQL Part II **
  
  4.Indexing and IO Model
  
- 5.IO Model and Sorting
+ **5.Sorting**
