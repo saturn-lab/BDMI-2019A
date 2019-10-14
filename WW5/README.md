@@ -4,6 +4,10 @@
 
 关系代数、[SQL语言](https://www.w3school.com.cn/sql/sql_syntax.asp)
 
+## 课件下载
+
+https://cs145-fa19.github.io/
+
 # 安排 
 
 '''Table of Contents'''
