@@ -10,7 +10,7 @@
 
 代码： https://github.com/saturn-lab/BDMI-2019A/tree/master/cs145-2018
 
-## 使用SQL
+## 安装SQL
 
 `pip install ipython-sql`
 
