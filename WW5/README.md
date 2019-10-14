@@ -7,7 +7,9 @@
 ## SQL相关
 
 课件：https://cs145-fa19.github.io/
-代码： [链接](../cs145-2018])
+
+代码： https://github.com/saturn-lab/BDMI-2019A/tree/master/cs145-2018
+
 ## 使用SQL
 
 `pip install ipython-sql`
