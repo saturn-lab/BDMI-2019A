@@ -4,10 +4,10 @@
 
 关系代数、[SQL语言](https://www.w3school.com.cn/sql/sql_syntax.asp)
 
-## 课件下载
+## SQL相关
 
-https://cs145-fa19.github.io/
-
+课件：https://cs145-fa19.github.io/
+代码： [链接](../cs145-2018])
 ## 使用SQL
 
 `pip install ipython-sql`
