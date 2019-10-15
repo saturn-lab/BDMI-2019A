@@ -26,7 +26,7 @@ Rui Xie, Shiyu Huang, Chen Gao, Shuchang Xu
 - 有一定算法、数据结构基础
 - 有微积分，线性代数，概率论基础
 - 上课需要自带笔记本电脑
-
+- 有一定数据库基础
 
 ## 目录结构
 
