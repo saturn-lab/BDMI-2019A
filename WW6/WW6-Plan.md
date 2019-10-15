@@ -1,3 +1,5 @@
+2019-10-23
+
 Bring Your Laptop  and Smart Phone to Class. 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |  备注       |
