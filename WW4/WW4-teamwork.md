@@ -5,9 +5,9 @@ code and teaching materials
 
 分工：
 
-- 许：  
+- 许：查找并测试链表、二叉搜索树，红黑树的notebook；
 
-- 高： 匿名反馈问卷，创建iCenter-云盘的学生账户；
+- 高：匿名反馈问卷，创建iCenter-云盘的学生账户；
 
 - 谢：实验室专用笔记本电脑；
 
