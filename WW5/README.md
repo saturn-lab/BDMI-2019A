@@ -1,19 +1,47 @@
-# 本节内容
+# Data Structure 
+Data item 
 
-[[数据管理系统]]（data system）、数据模型（Data Model）与关系数据模型（Relational data model）
+Fast Search/Insert/Delete/Traversal 
 
-[[关系代数]]、[SQL语言](https://www.w3school.com.cn/sql/sql_syntax.asp)
+## 桶排序课件
 
-# 安排 
+百度云链接: https://pan.baidu.com/s/1IaTnx1rB4cu2SHE3tyxXxQ 提取码: mz3w
 
-'''Table of Contents'''
- 
- 1.Why data systems
- 
- 2.Overview of the Relational data model
- 
- 3.SQL Part I, SQL Part II 
- 
- 4.Indexing and IO Model
- 
- 5.IO Model and Sorting
+## Array
+
+Numpy Array.
+
+## Linked List
+
+head -> item 1-> item_2 ...
+
+##  Binary Search Tree 
+
+$Tree$
+
+$BST$
+
+## RedBlack Tree 
+
+$RBTree$
+
+## B+ Tree
+
+# Data System
+
+Tree is the cornerstone of most Data System.    --who 
+
+relational database is cornerstone of western cviliaztion.  --who
+
+
+# Algorithm cont.
+
+## Bubble Sort
+
+Link: https://github.com/saturn-lab/BDMI-2019A/blob/master/cs161-2018/lecture6_bucketSort.ipynb
+
+## Median & Selection
+
+Link: https://github.com/saturn-lab/BDMI-2019A/blob/master/cs161-2018/lecture4_median_selection.ipynb
+
+

@@ -1,3 +1,5 @@
+2019-09-18
+
 Bring Your Laptop to Class. 
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |备注       |
