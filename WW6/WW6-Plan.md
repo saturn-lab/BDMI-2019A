@@ -11,7 +11,7 @@ Bring Your Laptop and smart phone  to Class.
 |   4       |  Why Data System?   |   讲课    |     CZ     |         |
 |   5       |  SQL I   |   讲课    |     Gao     |         |
 |   6       |  [SQL-I](../cs145-2018)    |   实践    |     Gao     |         |
-|   7       |  Review of [Homework 1](../Course-Projects)    |        |     huang     |         |
+|   7       |  Review of Homework 1 [Solution](https://github.com/saturn-lab/BDMI-2019A/blob/master/Course-Projects/hw1_solution.py)    |        |     huang     |         |
 |   8       |  小结，[展望下节课](../WW7/WW7-Plan.md)    |        |     CZ     |         |
 
 
