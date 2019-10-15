@@ -19,6 +19,7 @@ Rui Xie, Shiyu Huang, Chen Gao, Shuchang Xu
 - Github
 - Jupyter Notebook
 - Tensorflow
+- SQL
 
 课程要求：
 
