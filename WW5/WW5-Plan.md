@@ -11,7 +11,7 @@ Bring Your Laptop and smart phone  to Class.
 |   4       |  Why Data System?   |   讲课    |     CZ     |         |
 |   5       |  SQL I   |   讲课    |     Gao     |         |
 |   6       |  [SQL-I](../cs145-2018)    |   实践    |     Gao     |         |
-|   7       |  Review of [Course Projects](../Course-Projects)    |        |     huang     |         |
+|   7       |  Review of [Homework 1](../Course-Projects)    |        |     huang     |         |
 |   8       |  小结，[展望下节课](../WW6/WW6-Plan.md)    |        |     CZ     |         |
 
 
