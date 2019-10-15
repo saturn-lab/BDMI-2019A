@@ -1,3 +1,5 @@
+2019-09-25
+
 Bring Your Laptop to Class. 
 
 # Plan One
