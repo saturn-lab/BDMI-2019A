@@ -1,35 +1,47 @@
-# 本节内容
+# Data Structure 
+Data item 
 
-**数据管理系统（data system）、数据模型（Data Model）**
+Fast Search/Insert/Delete/Traversal 
 
-**关系数据模型（Relational data model）与关系代数**
+## 桶排序课件
 
-**[SQL语言](https://www.w3school.com.cn/sql/sql_syntax.asp)**
+百度云链接: https://pan.baidu.com/s/1IaTnx1rB4cu2SHE3tyxXxQ 提取码: mz3w
 
-## SQL相关
+## Array
 
-课件：https://cs145-fa19.github.io/
+Numpy Array.
 
-代码：[链接](../cs145-2018)
+## Linked List
 
-### 数据库进阶课件：
+head -> item 1-> item_2 ...
 
-链接:https://pan.baidu.com/s/1g4HeBWgcfPh0nsfD0CwXxA  密码:j6fy
+##  Binary Search Tree 
 
-## 安装SQL
+$Tree$
 
-`pip install ipython-sql`
+$BST$
 
-# 安排 
+## RedBlack Tree 
 
-'''Table of Contents'''
- 
- 1.Why data systems
- 
- 2.Overview of the Relational data model
- 
- **3.SQL Part I, SQL Part II **
- 
- 4.Indexing and IO Model
- 
- **5.Sorting**
+$RBTree$
+
+## B+ Tree
+
+# Data System
+
+Tree is the cornerstone of most Data System.    --who 
+
+relational database is cornerstone of western cviliaztion.  --who
+
+
+# Algorithm cont.
+
+## Bubble Sort
+
+Link: https://github.com/saturn-lab/BDMI-2019A/blob/master/cs161-2018/lecture6_bucketSort.ipynb
+
+## Median & Selection
+
+Link: https://github.com/saturn-lab/BDMI-2019A/blob/master/cs161-2018/lecture4_median_selection.ipynb
+
+
