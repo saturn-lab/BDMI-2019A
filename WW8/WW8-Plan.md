@@ -11,7 +11,7 @@ Bring Your Laptop and smart phone  to Class.
 |   6       |  RNN 循环网络    |   讲课    |       |         |
 |   7       |       |   实践    |        |         |
 |   8       |  语音识别ASR     |        |        |         |
-|   9       |  小结，[展望下节课](../WW8/WW8-Plan.md)    |        |     CZ     |         |
+|   9       |  小结，[展望下节课](../WW9/WW9-Plan.md)    |        |     CZ     |         |
 
 
 
