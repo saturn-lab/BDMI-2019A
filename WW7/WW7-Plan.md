@@ -6,7 +6,7 @@ Bring Your Laptop  and Smart Phone to Class.
 | :---      |   :----:    |   :----:    |    :----:    | ---: |
 |   0       |  课程签到     |  logistics   |     xie     |        |
 |   1       |  [回顾上节课](../WW6/WW6-Plan.md)，介绍本节课内容     |  讲课    |     CZ     |   Data System      |
-|   2       |  数据库进阶[（课件）](../WW6#数据库进阶课件)  |   讲课    |     huang     |         |
+|   2       |  数据库进阶[（SQL-II-课件）](../WW6#数据库进阶课件)  |   讲课    |     huang     |         |
 |   3       |  [SQL-II](../cs145-2018/Lecture-3.ipynb)    |   实践    |     huang     |         |
 |   4       |  [Big Scaling with Indexes：Hashing-Sorting-Couting](12-15-Big_Scaling_with_Indexes-Hashing-Sorting-Couting.pdf)    | 讲课 |  CZ | Algo/Data Structure in Data System  | 
 |   5       |  [Indexes in SQL](../cs245-2017/CS245-Notes52-Index_in_SQL.pdf)    |   讲课    |     CZ     |         |
