@@ -11,7 +11,7 @@ Bring Your Laptop  and Smart Phone to Class.
 |   4       |  [Indexes in SQL](../cs245-2017/CS245-Notes52-Index_in_SQL.pdf)    |   讲课    |     CZ     |         |
 |   5       |  [Indexing-IO model-External Merge](12-13_Indexing-IO_Model-External_Merge.pdf)    |   讲课    |     CZ     |  Sorting return        |
 |   6       |  [B+tree again](13_B_Plus_Trees.pdf)    |   讲课    |     CZ     |  Tree structure return  | Algo/Data Structure
-|   7       |  [Big Scaling with Indexes：Hashing-Sorting-Couting](12-15-Big_Scaling_with_Indexes-Hashing-Sorting-Couting.pdf)    | 讲课 |  CZ | Scaling in Data System  | 
+|   7       |  [Big Scaling with Indexes：Hashing-Sorting-Couting](12-15-Big_Scaling_with_Indexes-Hashing-Sorting-Couting.pdf)    | 讲课(optional) |  CZ | Scaling in Data System  | 
 |   8       |  [TensorFlow](http://tensorflow.google.cn) \ [TensorFlow-basic](2tensorflow-basic.pdf)    | 讲课 |  CZ |  Machine Intelligence (if time is enough) |   
 |   9       |  [tensorflow-v2](../TensorFlow/TensorFlow-v2) \ [tfExample](https://github.com/saturn-lab/tfExample)  | 实践 |  TA |  TensorBoard |   
 |   10      |  课程小结，[展望下节课](../WW8/WW8-Plan.md)       |     |  CZ |   |
