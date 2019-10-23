@@ -13,7 +13,7 @@ Bring Your Laptop  and Smart Phone to Class.
 |   6       |  [Indexing-IO model-External Merge](12-13_Indexing-IO_Model-External_Merge.pdf)    |   讲课    |     CZ     |  Sorting return        |
 |   7       |  [B+tree again](13_B_Plus_Trees.pdf)    |   讲课    |     CZ     |  Tree structure return  |
 |   8       |  [TensorFlow](http://tensorflow.google.cn) \ [TensorFlow-basic](2tensorflow-basic.pdf)    | 讲课 |  CZ |  Machine Intelligence (if time is enough) |   
-|   9       |  [tfExample](https://github.com/saturn-lab/tfExample)  | 实践 |  TA |  TensorBoard |   
+|   9       |  [tensorflow-v2](../TensorFlow/TensorFlow-v2) \ [tfExample](https://github.com/saturn-lab/tfExample)  | 实践 |  TA |  TensorBoard |   
 |   10      |  课程小结，[展望下节课](../WW8/WW8-Plan.md)       |     |  CZ |   |
 
 
