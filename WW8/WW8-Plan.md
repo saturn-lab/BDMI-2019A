@@ -5,7 +5,7 @@ Bring Your Laptop and smart phone  to Class.
 |   0       |  课程签到     |  logistics   |     xie     |        |
 |   1       |  [回顾上节课](../WW7/WW7-Plan.md)，介绍本节课内容     |  讲课    |     CZ     |         |
 |   2       |  深度学习与机器学习    |  讲课    |       |         |
-|   3       |  TensorFlw    |  实践    |       |         |
+|   3       |  [TensorFlow进阶](TensorFlow-more.pdf)    |  实践    |       |         |
 |   4       |  DNN 全连接网络  |   讲课    |       |         |
 |   5       |  CNN 卷积网络    |   讲课    |       |         |
 |   6       |  RNN 循环网络    |   讲课    |       |         |
