@@ -9,3 +9,7 @@
  （8-12周）https://github.com/saturn-lab/BDMI-2019A/wiki/声控智能-课程项目
 
  （10-16周）https://github.com/saturn-lab/BDMI-2019A/wiki/安全帽检测-课程项目
+
+# 说明
+
+huang开会请假一周。
