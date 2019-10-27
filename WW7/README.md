@@ -13,6 +13,6 @@ Database System Implementation, Chapter 13- Chapter 23
 
 ## 数据库进阶实战
 
-1. Peter Zaitsev, Vadim Tkachenko, Baron Schwartz, High Performance MySQL, Optimization, Backups, and Replication, O'Reilly Media, 3rd Edition, March 2012.  
+1. Peter Zaitsev, Vadim Tkachenko, Baron Schwartz, **High Performance MySQL, Optimization, Backups, and Replication**, O'Reilly Media, 3rd Edition, March 2012.  
 
-2. Enrico Pirozzi, Gregory Smith, Ibrar Ahmed, PostgreSQL 10 High Performance, Packt Publishing, 2018-04-30.
+2. Enrico Pirozzi, Gregory Smith, Ibrar Ahmed, **PostgreSQL 10 High Performance**, Packt Publishing, 2018-04-30.
