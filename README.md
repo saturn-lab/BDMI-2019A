@@ -12,14 +12,11 @@ Rui Xie, Shiyu Huang, Chen Gao, Shuchang Xu
 
 ## Requirements
 
-软件要求：
+语言环境要求：
 
-- Python3
-- Haskell
-- Github
-- Jupyter Notebook
-- Tensorflow
-- SQL
+- Python3, Jupyter Notebook
+- SQL, Git(Github), Markdown
+- Tensorflow, Haskell
 
 课程要求：
 
