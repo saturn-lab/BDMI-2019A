@@ -6,9 +6,9 @@
 
 ## 数据库教科书：
 
-A First Course in Database Systems, Chapter 1- Chapter 12
+**A First Course in Database Systems**, Chapter 1- Chapter 12
 
-Database System Implementation, Chapter 13- Chapter 23
+**Database System Implementation**, Chapter 13- Chapter 23
 
 
 ## 数据库进阶实战
