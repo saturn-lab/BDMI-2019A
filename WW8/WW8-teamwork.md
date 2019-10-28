@@ -10,6 +10,13 @@
 
  （10-16周）https://github.com/saturn-lab/BDMI-2019A/wiki/安全帽检测-课程项目
 
-# 说明
+# 分工说明
 
-huang开会请假一周。
+huang：开会请假一周。
+
+xie：拟题目；
+
+xu：notebook中用python录音24句语音指令，测试audioPlot和audioNet；
+
+gao：迭代audioRec APP
+
