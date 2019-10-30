@@ -8,7 +8,7 @@ Bring Your Laptop  and Smart Phone to Class.
 |   1       |  [回顾上节课](../WW6/WW6-Plan.md)，介绍本节课内容     |  讲课    |     CZ     |   Data System      |
 |   2       |  数据库进阶[（SQL-II-课件）](../WW6#数据库进阶课件)  |   讲课    |     huang     |         |
 |   3       |  [SQL-II](../cs145-2018/Lecture-3.ipynb)    |   实践    |     huang     |         |
-|   4       |  [Indexing-IO model-External Merge](12-13_Indexing-IO_Model-External_Merge.pdf)    |   讲课    |     CZ     |  Sorting return        |
+|   4       |  [Indexing-IO model-External Merge-External Merge Sort](12-13_Indexing-IO_Model-External_Merge.pdf)    |   讲课    |     CZ     |  Sorting return        |
 |   5       |  [B+tree again](13_B_Plus_Trees.pdf)    |   讲课    |     CZ     |  Tree structure return  | Algo/Data Structure
 |   6       |  [Indexes in SQL](../cs245-2017/CS245-Notes52-Index_in_SQL.pdf)    |   讲课    |     CZ     |         |
 |   7       |  [Big Scaling with Indexes：Hashing-Sorting-Couting](12-15-Big_Scaling_with_Indexes-Hashing-Sorting-Couting.pdf)    | 讲课(optional) |  CZ | Scaling in Data System  | 

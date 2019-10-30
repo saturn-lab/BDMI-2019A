@@ -1,0 +1,5 @@
+
+这节课讲了一些关于索引的东西
+助教接着上节课继续讲SQL的操作
+又再次讲了bplus树，接着讲io model
+最后助教演示了一个tensor flow的demo
