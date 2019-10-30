@@ -8,7 +8,7 @@
 |   6       |  [深度学习与机器学习](1AI-ML-DL.pdf)，[TensorFlow PlayGround](http://playground.tensorflow.org/)    |  讲课    |   CZ    |          |
 |   3       |  [TensorFlow进阶](TensorFlow-more.pdf)    |  实践    |    CZ   |         |
 |   4       |  DNN 全连接网络  |   讲课    |    CZ   |         |
-|   5       |      |   讲课    |       |         |
+|   5       |  语音识别实践    |  实践     |   Gao    |         |
 |   7       |  [AudioRec](../Course-Projects/speech-recog)    |   实践    |    CZ    |         |
 |   8       |  语音识别ASR     |   讲课     |        |         |
 |   9       |  小结，[展望下节课](../WW9/WW9-Plan.md)    |        |     CZ     |         |
