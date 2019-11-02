@@ -6,9 +6,9 @@ https://github.com/saturn-lab/BDMI-2019A/wiki
 
 ## Instructor and TAs
 
-[Zhen Chen](http://www.icenter.tsinghua.edu.cn/faculty/chenzhen/), Xin Lu, Min Guo
+Instructors: [Zhen Chen](http://www.icenter.tsinghua.edu.cn/faculty/chenzhen/), [Xin Lu](https://www.linkedin.com/in/luxin433/), Min Guo
 
-Rui Xie, Shiyu Huang, Chen Gao, Shuchang Xu
+TAs: Rui Xie, Shiyu Huang, Chen Gao, Shuchang Xu
 
 ## Requirements
 
