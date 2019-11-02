@@ -10,7 +10,7 @@
 
 课件：https://cs145-fa19.github.io/
 
-代码：[链接](../cs145-2018)
+代码：[链接](../../ML-BD-Algo/cs145-2018)
 
 ### 数据库进阶课件：
 
@@ -23,13 +23,13 @@
 # 安排 
 
 '''Table of Contents'''
- 
+
  1.Why data systems
- 
+
  2.Overview of the Relational data model
- 
+
  **3.SQL Part I, SQL Part II **
- 
+
  4.Indexing and IO Model
- 
+
  **5.Sorting**
