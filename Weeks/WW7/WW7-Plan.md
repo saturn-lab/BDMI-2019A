@@ -13,7 +13,7 @@ Bring Your Laptop  and Smart Phone to Class.
 | 6    | [Indexes in SQL](../../ML-BD-Algo/cs245-2017/CS245-Notes52-Index_in_SQL.pdf) | 讲课 | CZ   |      |
 | 7    | [Big Scaling with Indexes：Hashing-Sorting-Couting](12-15-Big_Scaling_with_Indexes-Hashing-Sorting-Couting.pdf) | 讲课(optional) | CZ   | Scaling in Data System |
 | 8    | [TensorFlow](http://tensorflow.google.cn) \ [TensorFlow-basic](2tensorflow-basic.pdf) | 讲课 | CZ   | Machine Intelligence (if time is enough) |
-| 9    | [tensorflow-v2](../TensorFlow/TensorFlow-v2) \ [tfExample](https://github.com/saturn-lab/tfExample) | 实践 | TA   | TensorBoard |
+| 9    | [tensorflow-v2](../../TensorFlow/TensorFlow-v2) \ [tfExample](https://github.com/saturn-lab/tfExample) | 实践 | TA   | TensorBoard |
 | 10   | 课程小结，[展望下节课](../WW8/WW8-Plan.md) |      | CZ   |      |
 
 

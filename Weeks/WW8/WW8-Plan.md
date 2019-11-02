@@ -4,8 +4,8 @@
 | :---      |   :----:    |   :----:    |    :----:    | ---: |
 |   0       |  课程签到     |  logistics   |     xie     |        |
 |   1       |  [回顾上节课](../WW7/WW7-Plan.md)，介绍本节课内容     |  讲课    |     CZ     |         |
-|   2       |  Python获取语音(pyAudio)与图像(opencv)    |   实践    |   Xu    |         |        
-|   6       |  [深度学习与机器学习](1AI-ML-DL.pdf)，    |  讲课    |   CZ    |          |
+|   2       |  Python获取语音(pyAudio)与图像(opencv)    |   实践    |   Xu    |         |
+|   6       |  [深度学习与机器学习](1AI-ML-DL.pdf)    |  讲课    |   CZ    |          |
 |   3       |  [TensorFlow PlayGround](http://playground.tensorflow.org/)   |  实践    |    CZ   |         |
 |   4       |  DNN 全连接网络  |   讲课    |    CZ   |         |
 |   5       |  语音识别实践    |  实践     |   Gao    |         |
