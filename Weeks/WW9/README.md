@@ -24,3 +24,8 @@ Kian Katanforoosh
 https://cs230.stanford.edu/syllabus/
 
 
+# 模型文件查看
+
+https://github.com/lutzroeder/netron
+
+浏览器方式：https://lutzroeder.github.io/netron/ 
