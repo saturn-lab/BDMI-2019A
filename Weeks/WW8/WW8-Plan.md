@@ -8,7 +8,6 @@
 |   6       |  [深度学习与机器学习](1AI-ML-DL.pdf)    |  讲课    |   CZ    |          |
 |   3       |  [TensorFlow PlayGround](http://playground.tensorflow.org/)   |  实践    |    CZ   |         |
 |   4       |  DNN 全连接网络  |   讲课    |    CZ   |         |
-       |
 |   9       |  小结，[展望下节课](../WW9/WW9-Plan.md)    |        |     CZ     |         |
 
 
