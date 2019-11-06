@@ -10,7 +10,7 @@
 
  
 
-（1）选取一个深度学习领域的问题和实现的解决方案。 推荐大家去GitHub上找现成的问题和解决思路，在Github搜索{RL, GAN, computer vision, NLP}；或者参考 如https://paperswithcode.com/sota。
+（1）选取一个深度学习领域的问题和实现的解决方案。 推荐大家去GitHub上找现成的问题和解决思路，在Github搜索{RL, GAN, computer vision, NLP}；或者参考 如[paperswithcode](https://paperswithcode.com/sota)。
  
 （2）改进课程的Demo作业，使其真正部署在树莓派等实际硬件上，能够demo真正工作的；
 
