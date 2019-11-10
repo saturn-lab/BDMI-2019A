@@ -12,22 +12,23 @@ TAs: Rui Xie, Shiyu Huang, Chen Gao, Shuchang Xu
 
 ## Requirements
 
-语言环境要求：
-
-- Python3, Jupyter Notebook
-- SQL, Git(Github), Markdown
-- Tensorflow, Haskell
-
-课程要求：
+### 课程要求：
 
 - 有一定算法、数据结构基础
 - 有微积分，线性代数，概率论基础
 - 上课需要自带笔记本电脑
 - 有一定数据库基础
 
+### 语言环境要求：
+
+- Python3, Jupyter Notebook
+- SQL, Git(Github), Markdown
+- Tensorflow, Haskell
+
+
 ## 目录结构
 
-- WWn/ 第n次课的课件和参考代码
+- Weeks/WWn/ 第n次课的课件和参考代码
 - Study-Memo/ 同学们的课程小结（课程小结文件名格式：m-Dayn.md，m为学生编号，n为第n次课，学生编号在网络学堂的课程文件里可以找到)
 - Course-Projects/ 课程实践任务
 
