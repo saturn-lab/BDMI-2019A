@@ -10,9 +10,9 @@
 
  
 
-（1）选取一个深度学习领域的问题和实现的解决方案。 推荐大家去GitHub上找现成的问题和解决思路，在Github搜索{RL, GAN, computer vision, NLP}；或者参考 如[paperswithcode](https://paperswithcode.com/sota)。
+（1）选取一个深度学习或强化学习领域的问题和实现的解决方案。 推荐大家去GitHub上找现成的问题和解决思路，在Github搜索{computer vision, NLP, RL, GAN, etc.}；或者参考 如[paperswithcode](https://paperswithcode.com/sota)。
  
-（2）改进课程的Demo作业，使其真正部署在树莓派等实际硬件上，能够demo真正工作的；
+（2）改进课程的2个动手作业：[helmet-recog](helmet-recog/README.md)和[speech-recog](speech-recog/README.md)，使其真正部署在树莓派等实际硬件上，能够demo真正工作的；
 
 （3）研究一篇前沿论文的，如数据系统与机器学习的结合等方向，包括但不限于：机器学习排序（Learned Sorting），机器学习索引（Learned index），机器学习调度（Learned Scheduling）和机器学习势估计（Learned Cardinality Estimating）等等。
 
@@ -39,11 +39,13 @@
 
 **评分标准:**
 
-\1. It works 60%
+\1. It works 50%
 
-\2. 能够说清楚问题和解决办法, 并让人觉得有兴趣参与 40%
+\2. 能够说清楚问题和解决办法, 并让人觉得有兴趣参与 30%
 
-\3. 如果有实际demo更佳
+\3. 如果有实际demo更佳 (10%)
+
+\4. Your works.  (10%)
 
 
  
