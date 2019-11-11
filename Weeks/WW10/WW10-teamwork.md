@@ -1,7 +1,9 @@
-xie: logistics
+Xie: logistics
 
-huang: min-char-rnn,  project 3;
+Huang: min-char-rnn,  project 3; optimizing query. prepare Reinforcement learning.
 
-Xu: helmet-recg Project; assit and evaluate 
+Xu: helmet-recg Project; assit and evaluate; prepare  some inputs.
 
-Gao: asr-project; assitant, evaluate; 
+Gao: asr-project; assitant, evaluate; prepare Recommender System. 
+
+
