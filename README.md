@@ -28,12 +28,12 @@ TAs: Rui Xie, Shiyu Huang, Chen Gao, Shuchang Xu
 
 ## 目录结构
 
-- Weeks/WWn/ 第n次课的课件和参考代码
-- Study-Memo/ 同学们的课程小结（课程小结文件名格式：m-Dayn.md，m为学生编号，n为第n次课，学生编号在网络学堂的课程文件里可以找到)
-- Course-Projects/ 课程实践任务
-- Readings/ 课程课外阅读的论文材料
 - Computing/ 计算基础与python学习
 - ML-BD-Algo 算法-数据管理-机器学习材料（思路）
+- Weeks/WWn/ 第n次课的课件和参考代码
+- Course-Projects/ 课程实践任务
+- Readings/ 课程课外阅读的论文材料
+- Study-Memo/ 同学们的课程小结（课程小结文件名格式：m-Dayn.md，m为学生编号，n为第n次课，学生编号在网络学堂的课程文件里可以找到)
 
 
 ## 课程相关问题和建议
