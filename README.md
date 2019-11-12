@@ -1,10 +1,10 @@
 # BDMI-2019A
 
-## Teaching Plan 
+## 教学计划 
 
 https://github.com/saturn-lab/BDMI-2019A/wiki
 
-## Instructor and TAs
+## 教师与助教
 
 Instructors: [Zhen Chen](http://www.icenter.tsinghua.edu.cn/faculty/chenzhen/), [Xin Lu](https://www.linkedin.com/in/luxin433/), Min Guo
 
