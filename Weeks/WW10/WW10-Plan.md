@@ -9,7 +9,7 @@ Bring Your Laptop and smart phone  to Class.
 |   2       |  深入浅出：[TensorFlow卷积网络与循环网络](4tensorflow-cnn-rnn.pdf)     |   CZ  |         |    
 |   3       |  rnn实践演示     |   huang  |         |   
 |   4       |  [TensorFlow进阶](TensorFlow-more.pdf)   |     讲课    |    CZ       |         |
-|   5       |  Project3    |   实践  |    Huang     |    |
+|   5       |  Project3    |   实践  |    Huang     |  启用github.io  |
 |   6       |  [Final-Projects](../../Course-Projects/Course_Final_Project)   |     讲课    |    all       |     maybe    |
 |   7       |  课程小结，[展望下节课](../WW11/WW11-Plan.md)       |     |  CZ |   |
 |   8       |  [产业调研](http://www.soundai.com)       |     |  CZ |   |
