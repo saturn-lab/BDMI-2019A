@@ -10,22 +10,6 @@ Instructors: [Zhen Chen](http://www.icenter.tsinghua.edu.cn/faculty/chenzhen/), 
 
 TAs: Rui Xie, Shiyu Huang, Chen Gao, Shuchang Xu
 
-## Requirements
-
-### 课程要求：
-
-- 有一定算法、数据结构基础
-- 有微积分，线性代数，概率论基础
-- 上课需要自带笔记本电脑
-- 有一定数据库基础
-
-### 语言环境要求：
-
-- Python3, Jupyter Notebook
-- Git(Github), Markdown
-- SQL, Tensorflow, Haskell
-
-
 ## 目录结构
 
 - Computing/ 计算基础与python学习
@@ -34,6 +18,13 @@ TAs: Rui Xie, Shiyu Huang, Chen Gao, Shuchang Xu
 - Course-Projects/ 课程实践任务
 - Readings/ 课程课外阅读的论文材料
 - Study-Memo/ 同学们的课程小结（课程小结文件名格式：m-Dayn.md，m为学生编号，n为第n次课，学生编号在网络学堂的课程文件里可以找到)
+
+
+### 语言环境要求：
+
+- Python3, Jupyter Notebook (Visual Studio Code)
+- Git(Github), Markdown
+- SQL, Tensorflow, Haskell
 
 
 ## 课程相关问题和建议
@@ -45,3 +36,11 @@ TAs: Rui Xie, Shiyu Huang, Chen Gao, Shuchang Xu
 对有GPU使用需要的同学，可以通过这个链接申请使用GPU资源（只限校内访问）：
 http://wiki.icenter.tsinghua.edu.cn/icenterwiki/index.php/AI云
 
+## 要求：
+
+## 课程要求：
+
+- 有一定算法、数据结构基础
+- 有微积分，线性代数，概率论基础
+- 上课需要自带笔记本电脑
+- 有一定数据库基础
