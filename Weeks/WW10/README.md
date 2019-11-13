@@ -19,12 +19,11 @@ Understanding-LSTMs, http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
 ## TensorFlow 2.0 Docs: Dense, CNN, RNN, and LSTM   
 
+Dense:
+https://tensorflow.google.cn/api_docs/python/tf/keras/layers/Dense?hl=en
 
 Softmax:
 https://tensorflow.google.cn/api_docs/python/tf/keras/layers/Softmax?hl=en
-
-Dense:
-https://tensorflow.google.cn/api_docs/python/tf/keras/layers/Dense?hl=en
 
 Conv. Layer:
 https://tensorflow.google.cn/api_docs/python/tf/keras/layers/Conv2D?hl=en
