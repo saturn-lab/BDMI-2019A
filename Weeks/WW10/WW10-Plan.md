@@ -10,7 +10,7 @@ Bring Your Laptop and smart phone  to Class.
 |   3       |  rnn实践演示     |   huang  |         |   
 |   4       |  [TensorFlow进阶](TensorFlow-more.pdf)   |     讲课    |    CZ       |         |
 |   5       |  Project3    |   实践  |    Huang     |    |
-|   6       |  Final Projects   |     讲课    |    all       |     maybe    |
+|   6       |  [Final-Projects](../../Course-Projects/Course_Final_Project)   |     讲课    |    all       |     maybe    |
 |   7       |  课程小结，[展望下节课](../WW11/WW11-Plan.md)       |     |  CZ |   |
 |   8       |  [产业调研](http://www.soundai.com)       |     |  CZ |   |
 
