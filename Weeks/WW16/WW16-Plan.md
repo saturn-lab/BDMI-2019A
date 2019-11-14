@@ -8,4 +8,4 @@ Bring Your Laptop and smart phone  to Class.
 |   1       |  [回顾上节课](../WW15/WW15-Plan.md)，介绍本节课内容     |  讲课    |     CZ     |        |
 |   2       |        |   CZ  |         |    
 |   3       |        |   CZ  |         |    
-|   4       |  课程小结，[课程总结](../WW16/WW16-Summary.md)       |     |  CZ |   |
+|   4       |  课程小结，[课程总结](../WW16/Course-Summary-2019A.md)       |     |  CZ |   |
