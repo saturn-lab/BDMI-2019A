@@ -3,13 +3,13 @@
 **作业题目： 大作业（Course Project ）**
 **作业说明：（四选一）**
 
-**实践型： 
+**实践型：** 
 
 （1）完成课程的2个动手作业：[helmet-recog](helmet-recog/README.md)和[speech-recog](speech-recog/README.md)，选择其一，使其真正部署在树莓派等实际硬件上，能够demo真正工作的；
 
 （2）选择一个[TensorFlow-Lite](https://tensorflow.google.cn/lite/examples?hl=zh_cn)，能够部署演示并能说明工作原理的；
 
-**理论型：
+**理论型：**
 
 （1）选取一个深度学习或强化学习领域的问题和实现的解决方案（最好是与自己专业结合的）。 推荐大家去GitHub上找现成的问题和解决思路，在Github搜索{computer vision, NLP, RL, GAN, etc.}；或者参考 如[paperswithcode](https://paperswithcode.com/sota)。
 
