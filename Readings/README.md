@@ -5,7 +5,7 @@ Atilim Gunes Baydin et al., Automatic differentiation in machine learning a surv
 
 
 ## LSTM
-Long short term memory neural computation, Neural computation 9 (8), 1735-1780, 1997. ##
+Long short term memory neural computation, Neural computation 9 (8), 1735-1780, 1997. 
 
 ## Deep
 Hinton, Geoffrey E., Simon Osindero, and Yee-Whye Teh. "A fast learning algorithm for deep belief nets." Neural computation 18.7 (2006): 1527-1554.
