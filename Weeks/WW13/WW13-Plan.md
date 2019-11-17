@@ -6,8 +6,8 @@ Bring Your Laptop and smart phone  to Class.
 | :---      |   :----:    |   :----:    |    :----:    | ---: |
 |   0       |  课程签到     |  logistics   |     xie     |        |
 |   1       |  [回顾上节课](../WW12/WW12-Plan.md)，介绍本节课内容     |  讲课    |     CZ     |        |
-|   2       |        |   CZ  |         |    
-|   3       |        |   CZ  |         |    
+|   2       |    计算机视觉的一些技术与应用    |   旷视 研究员 |          |    
+|   3       |  brain++等新技术、旷视的AIoT系统-旷视河图      |   旷视 研究员 |         |    
 |   4       |  课程小结，[展望下节课](../WW13/WW13-Plan.md)       |     |  CZ |   |
 
 
