@@ -22,8 +22,11 @@ Alex Graves et al., Towards End-To-End Speech Recognition with Recurrent Neural 
 
 
 ## CV
-Alex Krizhevsky, Ilya Sutskever and Geoffrey E. Hinton. "ImageNet classification with deep convolutional neural networks." ##NIPS 2012. 
+Alex Krizhevsky, Ilya Sutskever and Geoffrey E. Hinton. "ImageNet classification with deep convolutional neural networks." NIPS 2012. 
 
+## Learned System
+
+Tim Kraska et al., The Case for Learned Index Structures, sigmod 2018. 
 
 ## Book: 
 
