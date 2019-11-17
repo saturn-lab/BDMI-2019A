@@ -1,6 +1,6 @@
 # Reading materials for BDMI course.
 
-## 
+## math
 Atilim Gunes Baydin et al., Automatic differentiation in machine learning a survey, jmlr 2018.
 
 
