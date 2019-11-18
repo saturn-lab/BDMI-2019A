@@ -10,12 +10,3 @@ Bring Your Laptop and smart phone  to Class.
 |   3       |  课程报告      |   all  |         |    
 |   4       |  课程小结，[课程总结](../WW16/Course-Summary-2019A.md)       |     |  CZ |   |
 
-
-# 前沿介绍：Frontier
-
-|领域     |  分工    |   备注       |
-| :---      |   :----:    |   ---: |
-| Reinforcement learning | huang |  |
-| Recommender System | gao |   |
-| Leanrd data system | chen |  |
-
