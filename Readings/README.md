@@ -30,4 +30,6 @@ Tim Kraska et al., The Case for Learned Index Structures, sigmod 2018.
 
 ## Book: 
 
-Yoshua Bengio, Ian Goodfellow, Aaron Courville, Deep Learning, MIT Press, 2016. Link:[deeplearning-book](https://github.com/exacity/deeplearningbook-chinese/releases/download/v0.5-beta/dlbook_cn_v0.5-beta.pdf) 
+Yoshua Bengio, Ian Goodfellow, Aaron Courville, Deep Learning, MIT Press, 2016. Link:[deeplearning-book](http://www.deeplearningbook.org)
+
+[Chinese Version](https://github.com/exacity/deeplearningbook-chinese/releases/download/v0.5-beta/dlbook_cn_v0.5-beta.pdf) 
