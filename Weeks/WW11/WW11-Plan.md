@@ -7,7 +7,7 @@ Bring Your Laptop and smart phone  to Class.
 |   0       |  课程签到     |  logistics   |     xie     |        |
 |   1       |  [回顾上节课](../WW10/WW10-Plan.md)，介绍本节课内容     |  讲课    |     CZ     |   Data System      |
 |   2       |   深度学习应用    |   CZ       |       15min     ||
-|   2       |   计算机视觉 CV-OD     |   CZ & Xu        |       45min     ||
+|   2       |   [计算机视觉 CV-OD](视觉对象检测.pptx)   |   CZ & Xu        |       45min     ||
 |   3       |   posenet-demo      |   XU        |      10min      ||
 |   4       |   easy-helmet     |   XU        |        20min    ||
 |   4       | tf.data[[课件]](tfdata.pdf)[[notebook]](data.ipynb) |   Huang        |        20min    ||
