@@ -11,3 +11,7 @@ Bring Your Laptop and smart phone  to Class.
 |   3       |   easyhelmet（optional）     |   all  |   需要linux环境      |    
 |   4       |  课程小结，[展望下节课](../WW14/WW14-Plan.md)       |     |  CZ |   |
 
+独到科技：
+
+强化学习：
+
