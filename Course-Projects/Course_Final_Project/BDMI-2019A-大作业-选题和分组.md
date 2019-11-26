@@ -7,7 +7,7 @@
 | 3    | 48、     | 基于人體姿態分析-Posenet之简易体感游戏实现   |
 | 4    | 3、64    | TensorFlow Lite —— 手势识别 |
 | 5    | 49、/,/    | TensorFlow Lite —— Text classification |
-
+| 6    |41、42、43| TensorFlow-Lite —— 图像分类|
 
 
 
