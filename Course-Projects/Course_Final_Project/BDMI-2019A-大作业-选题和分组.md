@@ -11,5 +11,6 @@
 | 7    |50, 51,   | Hate Speech & Offensive Tweets Detection on Twitter|
 | 8    |12, 13,   | helmet-recog                |
 | 9    |31， 59   | TensorFlow-Lite ————        |
+| 10    |39， 14   | TensorFlow-Lite —— Object detection |
 
 
