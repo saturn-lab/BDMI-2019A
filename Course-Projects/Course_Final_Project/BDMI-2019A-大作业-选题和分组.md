@@ -21,3 +21,4 @@
 |17  |56, 70, 4 |tensorflow lite- screaming chicken|         |
 |18  |57, 58, 15 |TensorFlow-Lite —— 图像分类|         |
 |19  |2,5 | tensorflow/models/deeplab 图像分割理论与实践|    |
+|20  |44,45,47 | helmet-recog |    |
