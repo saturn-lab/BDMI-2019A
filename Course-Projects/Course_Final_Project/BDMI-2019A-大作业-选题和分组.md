@@ -15,3 +15,4 @@
 | 11    |32, 23   | helmet-recog                |
 | 12    |29, 55, 68 | TensorFlow-Lite -> 对象检测 |
 | 13    |20 | 基于深度学习的图像分割的理论和实践 |
+|14    | 30 | helmet-recog |
