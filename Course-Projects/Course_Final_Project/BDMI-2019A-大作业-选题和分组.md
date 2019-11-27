@@ -17,5 +17,5 @@
 | 13    |20 | 基于深度学习的图像分割的理论和实践 |         |
 |14    | 30 | helmet-recog |         |
 | 15 | 61 6 53 | TensorFlow Lite - kinship verification |         |
-|16  |7    |tensorflow lite-style transfer|
+|16  |7    |tensorflow lite-|
 |56 | 70 |4 |tensorflow lite- screaming chicken|
