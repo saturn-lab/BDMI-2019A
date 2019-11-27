@@ -16,7 +16,7 @@
 | 12    |29, 55, 68 | TensorFlow-Lite -> 对象检测 |         |
 | 13    |20 | 基于深度学习的图像分割的理论和实践 |         |
 |14    | 30 | helmet-recog |         |
-| 15 | 61 6 53 | TensorFlow Lite - kinship verification |         |
+| 15 | 61 6 53 | kinship verification |         |
 |16  |7    |tensorflow lite-style transfer|         |
 |17  |56, 70, 4 |tensorflow lite- screaming chicken|         |
 |18  |57, 58, 15 |TensorFlow-Lite —— 图像分类|         |
