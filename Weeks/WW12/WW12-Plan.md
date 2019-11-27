@@ -9,9 +9,8 @@ Bring Your Laptop and smart phone  to Class.
 |   2       |  分组        |     辅导       |     all     | Course-Project |
 |   3       |  [Big Data](5Big-Data-Movement-short.pdf)/[Learned system](4LearnedSystem.pdf)  |    讲课        |  CZ          |     |
 |   4       |  EasyHelmet Demo  |    演示        |  Xu          |     |
-|   5       |  Sort Merge Join & hash join [(课件)](https://github.com/saturn-lab/BDMI-2019A/tree/master/Weeks/WW12#%E6%95%B0%E6%8D%AE%E5%BA%93%E4%B9%8Bjoin%E4%BC%98%E5%8C%96)      |    讲课       |   huang          |    |
-|   6       |   数据处理平台之演进和趋势：GreenPlum     |   姚延栋        |  Pivotal公司          | Big Data and AI|
-|   7       |   [MADLib引论](9MADLib引论.pdf)：大数据与机器智能的结合   |   吴疆        |  Pivotal公司             | Big Data and AI|
-|   8       |  课程小结，[展望下节课](../WW13/WW13-Plan.md)       |     |  CZ |   |
+|   5       |   数据处理平台之演进和趋势：GreenPlum     |   姚延栋        |  Pivotal公司          | Big Data and AI|
+|   6       |   [MADLib引论](9MADLib引论.pdf)：大数据与机器智能的结合   |   吴疆        |  Pivotal公司             | Big Data and AI|
+|   7       |  课程小结，[展望下节课](../WW13/WW13-Plan.md)       |     |  CZ |   |
 
 
