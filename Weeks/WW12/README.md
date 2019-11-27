@@ -4,4 +4,4 @@
 
 ## 数据库之Join优化
 
-课件下载：http://caiyun.feixin.10086.cn/dl/145CmEyCdlBE3  提取密码:h3fx
+课件下载： https://pan.baidu.com/s/1Q0nCfXoEopqbyzKdqdMK7w 提取码: ryr1
