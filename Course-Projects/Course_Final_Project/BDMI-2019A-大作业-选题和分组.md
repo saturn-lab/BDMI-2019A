@@ -6,7 +6,7 @@
 | 2    | 66、62、33   | helmet-recog                |         |
 | 3    | 48、27   | 基于人體姿態分析-Posenet之简易体感游戏实现   |         |
 | 4    | 3、64    | TensorFlow Lite —— 手势识别 |         |
-| 5    | 49、36 | TensorFlow Lite —— Text classification |         |
+| 5    | 49、36,63 | TensorFlow Lite —— Text classification |         |
 | 6    |41、42、43| TensorFlow-Lite —— 图像分类|         |
 | 7    |50, 51,   | Hate Speech & Offensive Tweets Detection on Twitter|         |
 | 8    |12, 13,   | helmet-recog                |         |
@@ -16,8 +16,9 @@
 | 12    |29, 55, 68 | TensorFlow-Lite -> 对象检测 |         |
 | 13    |20 | 基于深度学习的图像分割的理论和实践 |         |
 |14    | 30 | helmet-recog |         |
-| 15 | 61 6 53 | TensorFlow Lite - kinship verification |         |
+| 15 | 61 6 53 | kinship verification |         |
 |16  |7    |tensorflow lite-style transfer|         |
 |17  |56, 70, 4 |tensorflow lite- screaming chicken|         |
 |18  |57, 58, 15 |TensorFlow-Lite —— 图像分类|         |
 |19  |2,5 | tensorflow/models/deeplab 图像分割理论与实践|    |
+|20  |44,45,47 | helmet-recog |    |
