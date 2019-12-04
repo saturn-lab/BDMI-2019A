@@ -3,7 +3,7 @@
 | 序号 | 组员编号 | 题目                        |   组名、组长      |
 | ---- | -------- | --------------------------- | -------- |
 | 1    | 1、38    | TensorFlow Lite —— 智能回复 | LB 1 |
-| 2    | 66、62、33   | helmet-recog                |         |
+| 2    | 66、62、33   | helmet-recog                | 工地恶作剧 66        |
 | 3    | 48、27   | 基于人體姿態分析-Posenet之简易体感游戏实现   |         |
 | 4    | 3、64    | TensorFlow Lite —— 手势识别 |         |
 | 5    | 49、36,63 | TensorFlow Lite —— Text classification | 49         | 
