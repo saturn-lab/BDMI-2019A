@@ -11,4 +11,4 @@ Bring Your Laptop and smart phone  to Class.
 |   4       |  课程小结，[课程总结](../WW16/Course-Summary-2019A.md)       |     |  CZ |   |
 
 
-
+``每个终点也是起点``
