@@ -1,4 +1,4 @@
-This course is targeted to a ```Practical Approaches``` to Data Management and Deep Learning (DMDL).
+This course is targeted to a ```Practical Approaches``` to Data Management and Machine Learning (DMDL).
 
 In a semester, this course explores the fudemental area of DMDL. 
 
