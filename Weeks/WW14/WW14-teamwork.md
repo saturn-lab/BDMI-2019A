@@ -10,7 +10,7 @@ gao: 测试华为的开发环境和设备，辅导tensorflow-lite
 
 xu: easyhelmet运行完成
 
-考勤：  
+考勤：  谢、黄、高、许
 
 缺勤：  
 
