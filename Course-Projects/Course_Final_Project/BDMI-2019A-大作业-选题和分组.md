@@ -13,7 +13,7 @@
 | 9    |31， 59   | TensorFlow-Lite ————        |   奆AI！   59   |          |
 | 10    |39， 14   | TensorFlow-Lite —— Object detection |  对象检测,14       |   黄世宇 |
 | 11    |32, 23   | helmet-recog                |   helmet-recog   23   |   许书畅 |
-| 12    |29, 55, 68 | TensorFlow-Lite -> 对象检测 | Raspberry, 55 |      |
+| 12    |29, 55, 68 | TensorFlow-Lite -> 对象检测 | Red-Carpet, 55 |      |
 | 13    |20 | 基于深度学习的图像分割的理论和实践 | 13组 20 |       |
 |14    | 30 | helmet-recog | her、30     |    许书畅 |
 | 15 | 61 6 53 | kinship verification | 第15组 61 |  高宸 |
