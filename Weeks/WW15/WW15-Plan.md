@@ -8,7 +8,7 @@ Bring Your Laptop and smart phone  to Class.
 |   1       |  [回顾上节课](../WW14/WW14-Plan.md)，介绍本节课内容     |  讲课    |     CZ     |        |
 |   2       |  NLP处理      |   CZ huang |         |    
 |   3       |  推荐系统      |   gao  |         |    
-|   4       |  [独到科技](https://www.doodod.com/)   |  交流实践    |   CZ  |    14：30 出发-15：30 回   |    
+|   4       |  [独到科技](https://www.doodod.com/)-基于微信生态的人工智能应用   |  交流实践    |   季剑秋、王勃  |    14：30 出发-15：30 回   |    
 |   5       |  课程小结，[展望下节课](../WW16/WW16-Plan.md)       |     |  CZ |   |
 
 
