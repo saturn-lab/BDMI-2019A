@@ -16,7 +16,7 @@
 | 12    |29, 55, 68 | TensorFlow-Lite -> 对象检测 | Raspberry, 55 |      |
 | 13    |20 | 基于深度学习的图像分割的理论和实践 | 13组 20 |       |
 |14    | 30 | helmet-recog | her、30     |    许书畅 |
-| 15 | 61 6 53 | kinship verification | 第15组 61 |       |
+| 15 | 61 6 53 | kinship verification | 第15组 61 |  高宸 |
 |16  |7    |tensorflow lite-style transfer| SSS-tyle transfer     7   |   许书畅 |
 |17  |56, 70, 4 |tensorflow lite- screaming chicken|    Screaming Chicken 56     | 高宸 |
 |18  |57, 58, 15 |TensorFlow-Lite —— 图像分类| 第18组 57 |         |
