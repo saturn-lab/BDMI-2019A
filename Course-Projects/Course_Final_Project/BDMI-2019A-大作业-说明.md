@@ -6,7 +6,7 @@
 
 **实践型（推荐）：** 
 
-（1）完成课程的2个动手作业：[helmet-recog](helmet-recog/README.md)和[speech-recog](speech-recog/README.md)，选择其一，使其真正部署在树莓派等实际硬件上，能够demo真正工作的；
+（1）完成课程的2个动手作业：[helmet-recog](../helmet-recog/README.md)和[speech-recog](../speech-recog/README.md)，选择其一，使其真正部署在树莓派等实际硬件上，能够demo真正工作的；
 
 （2）选择一个[TensorFlow-Lite](https://tensorflow.google.cn/lite/examples?hl=zh_cn)，能够部署演示并能说明工作原理的；详见：[tensorflow-lite](https://tensorflow.google.cn/lite/guide?hl=zh_cn)
 
